@@ -23,11 +23,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",News 24
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-24-bd.png" group-title="News",News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",Star News
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-news-bd.png" group-title="News",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",SA TV
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sa_tv_bd.png" group-title="News",SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-qa.svg" group-title="News",Al-Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
