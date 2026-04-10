@@ -40,8 +40,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel9_bd.png" group-title="News",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-<!--others-->
-#EXTM3U
+
 #EXTINF:-1,BPK TV 1701
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1,BPK TV 1702
